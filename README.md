@@ -1,3 +1,4 @@
+<img width="1413" height="2990" alt="celuriro" src="https://github.com/user-attachments/assets/055c98f8-21c9-4dd9-8712-83ff3db2c678" />
 <div align="center">
 
 # 📚 EduDesk
