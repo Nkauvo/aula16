@@ -201,7 +201,7 @@ Push para main/master
         ↓
 📥 Checkout do código
         ↓
-☕ Setup Java 17 (Temurin)
+☕ Setup Java 21 (Temurin)
         ↓
 🟢 Setup Node.js 22
         ↓
