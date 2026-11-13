@@ -203,7 +203,7 @@ Push para main/master
         ↓
 ☕ Setup Java 17 (Temurin)
         ↓
-🟢 Setup Node.js 20
+🟢 Setup Node.js 22
         ↓
 📦 npm ci (instalar dependências)
         ↓
